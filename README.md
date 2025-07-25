@@ -19,6 +19,9 @@
 </div>
   
   ##
+
+   ![animação de cobra](https://github.com/Lxcca248/github-contribution-grid-snake/blob/projetos/github-contribution-grid-snake.svg)
+  
  
 <div> 
   <a href = "mailto:luccaf500@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
