@@ -24,7 +24,7 @@
   
   ##
 
-   ![animação de cobra](https://github.com/Lxcca248/github-contribution-grid-snake/blob/projetos/github-contribution-grid-snake.svg)
+   ![animação de cobra](https://github.com/Lxcca248/github-contribution-grid-snake2/blob/projetos/github-contribution-grid-snake.svg)
   
  
 <div> 
