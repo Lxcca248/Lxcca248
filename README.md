@@ -1,4 +1,4 @@
-## Oi! Eu sou o Lucca Locoselli.
+## Hi! I'm Lucca Locoselli.
  <div>
   <a href="[https://github.com/Lxcca248]">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lxcca248&show_icons=true&theme=dark"/>
