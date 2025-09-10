@@ -1,4 +1,7 @@
-## Hi! I'm Lucca Locoselli.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Ol%C3%A1!+Sou+Lucca+Locoselli.;Bem-vindo+ao+meu+GitHub!;Sou+apaixonado+por+Tecnologia+💻;Sempre+aprendendo+novas+skills+📚)](https://git.io/typing-svg)
+
+
+
  <div>
   <a href="[https://github.com/Lxcca248]">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lxcca248&show_icons=true&theme=dracula"/>
