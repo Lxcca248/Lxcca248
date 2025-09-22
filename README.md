@@ -6,7 +6,7 @@
   <a href="[https://github.com/Lxcca248]">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lxcca248&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lxcca248&hide_progress=true&theme=dracula"/>
- <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Lxcca248&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
+ <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Lxcca248&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
 
 
   
